@@ -1,0 +1,26 @@
+
+VIDEO ANALYSIS REPORT
+=====================
+
+Video File: /tmp/tmp657s96w3/demo_video.mp4
+Duration: 10.00 seconds
+Total Frames: 300
+FPS: 30.00
+Analysis Date: 2025-09-26T09:44:05.841868
+
+OVERALL SUMMARY
+===============
+Activity Level: low
+Motion Percentage: 100.00%
+
+KEY EVENTS (1)
+==========
+0.0s: Activity sequence from 0.0s to 0.0s (duration: 0.0s)
+
+
+QUALITY METRICS
+===============
+Overall Score: 0.75
+Brightness Score: 0.44
+Contrast Score: 0.01
+Sharpness Score: 0.80

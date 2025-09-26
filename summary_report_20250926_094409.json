@@ -1,0 +1,48 @@
+{
+  "video_path": "/tmp/tmp657s96w3/demo_video.mp4",
+  "duration": 10.0,
+  "total_frames": 300,
+  "fps": 30.0,
+  "analysis_timestamp": "2025-09-26T09:44:05.841868",
+  "activity_level": "low",
+  "motion_percentage": 100.0,
+  "key_events": [
+    {
+      "timestamp": 0.0,
+      "event_type": "high_activity_sequence",
+      "confidence": 0.7009462890625,
+      "location": [
+        0,
+        0
+      ],
+      "description": "Activity sequence from 0.0s to 0.0s (duration: 0.0s)",
+      "metadata": {
+        "start_time": 0.0,
+        "end_time": 0.0,
+        "duration": 0.0,
+        "event_count": 1
+      }
+    }
+  ],
+  "quality_metrics": {
+    "brightness_score": 0.4361504416870915,
+    "contrast_score": 0.005727851031489739,
+    "sharpness_score": 0.8,
+    "overall_score": 0.75,
+    "frame_count": 30
+  },
+  "timeline_data": {
+    "segments": [
+      {
+        "start_time": 0.0,
+        "end_time": 10.0,
+        "motion_percentage": 6.9868381076388895,
+        "brightness": 111.21836263020833,
+        "activity_score": 0.05037671440972223,
+        "max_motion": 100.0,
+        "frame_count": 30
+      }
+    ],
+    "interval": 10.0
+  }
+}
